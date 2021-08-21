@@ -1,0 +1,1 @@
+/home/ra/.local/src/dwm/config.h
